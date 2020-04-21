@@ -1,0 +1,85 @@
+body {
+  background-color: rgb(255, 230, 255);
+}
+
+header {
+    border: 3px dotted red;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#user {
+  border-collapse: collapse;
+  text-align: right;
+  font-size: 18px;
+  padding-right: 5px;
+}
+
+.maintable {
+  background-color: rgb(253,162,244);
+  border: 1px dotted pink;
+  border-collapse: collapse;
+  height: auto;
+  width: 1110px;
+  text-align: center;
+}
+
+.menuTd {
+  background-color:rgba(253,162,244, 0.8) ;
+  position: absolute;
+  right: 10px;
+  width: 200px;
+  border: 1px solid pink;
+  font-size: 25px;
+}
+
+.mainTd {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.mainDiv {
+  border: 1px solid pink;
+  border-collapse: collapse;
+  width: 1110px;
+}
+
+.dessertsTd {
+  border: 1px dotted red;
+  border-collapse: collapse;
+  width: 400px;
+  height: 250px;
+  padding: 20px;
+  text-align: center;
+}
+
+.dessertsP {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(206,173,0);
+}
+
+.dessertsP2 {
+  text-align: right;
+  padding-right: 5px;
+  font-size: 20px;
+}
+
+.orderButton {
+  width: 100px;
+  height: 50px;
+}
+
+.footer {
+
+}
+
+h1, h2 {
+  color: rgb(206,173,0);
+  text-align: center;
+}
+
+.p1 {
+   font-size: 23px;
+   color: rgb(206,173,0);
+}
